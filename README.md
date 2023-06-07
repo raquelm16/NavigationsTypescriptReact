@@ -1,3 +1,4 @@
+<br>
 <h1 align="center"> React Typescript Navegações</h1>
 
 <h4 align="center"> <a href="https://reactnavigation.org/docs/getting-started/">💜 React Navigation | Getting Started 💜</a></h4>
