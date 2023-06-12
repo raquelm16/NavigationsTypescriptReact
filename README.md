@@ -18,6 +18,7 @@
 - `cd NavigationsTypescriptReact` <br>
 - Escolha qual navegação você quer (stack, tabs, etc) `cd TIPODENAVEGAÇÃO` <br>
 - `npm install` <br>
+- Instale as dependências necessárias pelo link acima. Ex: se você escolheu o Stack, copie e cole o comando que se pede no link.
 - `npx expo start` <br>
 - Escolha a opção web (w) <br>
 - Copie e cole o comando que manda instalar o react web <br>
