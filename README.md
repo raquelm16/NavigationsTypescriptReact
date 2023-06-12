@@ -5,14 +5,15 @@
 
 <h3>Programas Necessários:</h3>
 
-- Terminal Vscode (ou algum outro programa de programação)
+- Vscode
+- Git Bash
 <br><br>
 
 
 <h3>Comandos:</h3>
 
-- Abrir o terminal do Vscode <br>
-- Pegar o link do meu github <br>
+- Abra o terminal do Vscode <br>
+- Pegue o link do meu github (pode ser pela barra de pesquisa ou pelo botão 'code') <br>
 - `git clone LINKDOGITHUB` <br>
 - `cd NavigationsTypescriptReact` <br>
 - Escolha qual navegação você quer (stack, tabs, etc) `cd TIPODENAVEGAÇÃO` <br>
